@@ -1724,7 +1724,7 @@ background: "#CCCC00";
 .about-box header .header-block .entry-header:before{
     content: "";
     position: absolute;
-    bottom: 20px;
+    bottom: -80px;
     right: 20px;
     z-index: 1;
     width: 85px;
